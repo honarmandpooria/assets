@@ -1,0 +1,11 @@
+{
+  "name": "NinjaCoin",
+  "symbol": "NNJ",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "The official token for Anime Ninja ecosystem.",
+  "website": "https://www.ninja-coin.com",
+  "explorer": "https://etherscan.io/token/0x3D56A3fC4452c29D570E1a799B1f35aE8A28f84b",
+  "status": "active",
+  "id": "0x3D56A3fC4452c29D570E1a799B1f35aE8A28f84b"
+}
